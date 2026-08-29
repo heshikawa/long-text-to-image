@@ -48,7 +48,7 @@ No installation or external dependencies are required.
 ## Ko-fi
 
 If you find this tool useful, you can support my projects on Ko-fi.  
-I also make handmade seal dice.
+I also make handmade seal dice / chatbos(not ai driven).
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-555?logo=kofi&logoColor=white)](https://ko-fi.com/tupetetodou)
 
@@ -103,6 +103,6 @@ I also make handmade seal dice.
 ## Ko-fi
 
 如果这个工具对你有帮助，可以在 Ko-fi 支持我的项目。  
-我也会在那里发布和出售手作海豹骰子。
+我也会在那里发布和出售手作海豹骰子/聊天机器人（非ai驱动）。
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-555?logo=kofi&logoColor=white)](https://ko-fi.com/tupetetodou)
