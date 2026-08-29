@@ -1,11 +1,18 @@
 # Long Text · Image Layout / 长图 · 文字排版
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Tool-2f6f5e?logo=githubpages&logoColor=white)](https://heshikawa.github.io/long-text-to-image/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-555?logo=kofi&logoColor=white)](https://ko-fi.com/tupetetodou)
+
 **English** · [中文](#中文)
 
 A lightweight browser-based tool for turning long text into clean, shareable images.  
 No installation, account, or server upload is required.
 
 > **AI disclosure:** The code for this tool was generated entirely with AI based on my requirements. I tested and adjusted the final result.
+
+## Try it online
+
+**Live demo:** https://heshikawa.github.io/long-text-to-image/
 
 ## Features
 
@@ -23,7 +30,7 @@ No installation, account, or server upload is required.
 
 ## How to use
 
-1. Open `index.html` in a modern browser.
+1. Open the [live demo](https://heshikawa.github.io/long-text-to-image/) or open `index.html` in a modern browser.
 2. Enter a title and paste your text, or choose **Import TXT**.
 3. Adjust the paper style, font size, line spacing, and page count.
 4. Preview the result in **Long Image** or **Pages** mode.
@@ -48,7 +55,7 @@ No installation or external dependencies are required.
 ## Ko-fi
 
 If you find this tool useful, you can support my projects on Ko-fi.  
-I also make handmade seal dice / chatbos(not ai driven).
+I also make handmade seal dice.
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-555?logo=kofi&logoColor=white)](https://ko-fi.com/tupetetodou)
 
@@ -61,6 +68,10 @@ I also make handmade seal dice / chatbos(not ai driven).
 无需安装、无需注册，也不需要把文字上传到服务器。工具支持中文 / English 一键切换。
 
 > **AI 生成说明：** 本工具代码由 AI 根据我的需求完整生成，我负责提出需求、测试并调整最终成品。
+
+## 在线使用
+
+**在线版：** https://heshikawa.github.io/long-text-to-image/
 
 ## 功能
 
@@ -78,7 +89,7 @@ I also make handmade seal dice / chatbos(not ai driven).
 
 ## 使用方法
 
-1. 用浏览器打开 `index.html`。
+1. 打开[在线版](https://heshikawa.github.io/long-text-to-image/)，或直接用浏览器打开 `index.html`。
 2. 输入标题并粘贴正文，也可以点击 **导入 TXT**。
 3. 调整纸张风格、字号、行距和分页数量。
 4. 在 **长图 / 分页** 两种模式中预览效果。
@@ -103,6 +114,6 @@ I also make handmade seal dice / chatbos(not ai driven).
 ## Ko-fi
 
 如果这个工具对你有帮助，可以在 Ko-fi 支持我的项目。  
-我也会在那里发布和出售手作海豹骰子/聊天机器人（非ai驱动）。
+我也会在那里发布和出售手作海豹骰子。
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-555?logo=kofi&logoColor=white)](https://ko-fi.com/tupetetodou)
